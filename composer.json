@@ -1,6 +1,7 @@
 {
-  "name": "dreipunktnull/dhl-shipment-tracking",
+  "name": "zhukovsergei/dhl-shipment-tracking",
   "description": "DHL Shipment Tracking API",
+  "version": "6.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -14,9 +15,9 @@
     }
   ],
   "require": {
-    "php": "^7.0",
+    "php": "^8.3",
     "ext-simplexml": "*",
-    "guzzlehttp/guzzle": "~6.0"
+    "guzzlehttp/guzzle": "^7.9"
   },
   "autoload": {
     "psr-4": {
